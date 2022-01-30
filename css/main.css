@@ -1,6 +1,31 @@
-
-
-
+.titulos{
+    font-family: 'Anton', sans-serif;
+}
+.nav-link{
+    font-size: 1.25rem;
+}
+h1{
+    font-size: 8rem;
+    font-family: 'Anton', sans-serif;
+}
+h2{
+    text-align: center;
+}
+.frase {
+    font-family: 'Anton', sans-serif;
+    font-style:italic ;
+    font-size: 1.5rem;
+}
+.text-center {
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 2px;
+    font-size: 1.2rem;
+}
+.tituloPrincipal{
+    font-size: 3rem;
+    font-family: 'Anton', sans-serif;
+    padding: 1rem;
+}
 
 
 
